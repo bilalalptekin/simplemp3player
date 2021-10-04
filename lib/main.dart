@@ -131,6 +131,7 @@ class _MusicplayerState extends State<Musicplayer> {
               SizedBox(
                 height: 15,
               ),
+              
                  ]
                 ),
               ),
