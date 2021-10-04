@@ -146,9 +146,6 @@ class _MusicplayerState extends State<Musicplayer> {
               //       ),);
               //  },
               // ),
-             
-
-             
             ],
           ),
         ),
