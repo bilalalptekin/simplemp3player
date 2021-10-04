@@ -104,21 +104,21 @@ class _MusicplayerState extends State<Musicplayer> {
               SizedBox(
                 height: 15,
               ),
-              buildRaisedButton("Çeviri", "", _player),
+              buildRaisedButton("Music1", "", _player),
               SizedBox(
                 height: 15,
               ),
-              buildRaisedButton("İşaret Dili", "", _player),
+              buildRaisedButton("Music2", "", _player),
               SizedBox(
                 height: 15,
               ),
- buildRaisedButton("İşaret Dili", "", _player),
+ buildRaisedButton("Music3", "", _player),
               SizedBox(
                 height: 15,
-              ), buildRaisedButton("İşaret Dili", "", _player),
+              ), buildRaisedButton("Music4", "", _player),
               SizedBox(
                 height: 15,
-              ), buildRaisedButton("İşaret Dili", "", _player),
+              ), buildRaisedButton("Music5", "", _player),
               SizedBox(
                 height: 15,
               ), buildRaisedButton("İşaret Dili", "", _player),
